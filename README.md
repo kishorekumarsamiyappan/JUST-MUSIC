@@ -1,8 +1,8 @@
+
+https://github.com/user-attachments/assets/07e159fc-8d35-4f98-952d-6f14a2ccc4b0
 # 🎵 JustMusic - Local Music Web App
 
 **JustMusic** is a multimedia-rich music website developed using HTML, CSS, Bootstrap, and Font Awesome. It features audio previews, stylish background videos, and user interface components like Sign In / Sign Up — all hosted and tested locally using **XAMPP**.
-
-
 
 ## 🚀 Features
 
@@ -19,15 +19,18 @@
 ## 📂 Folder Structure
 
 JustMusic/
+│
 ├── Home.html
 ├── Mixedplaylists.html
 ├── Sing In.html
 ├── Sing Up.html
 ├── logo.png
-├── *.mp3 (music files)
-├── *.jpg (song cover images)
-├── *.mp4 (background videos)
-├── README.md
+├── bg 231.mp4
+├── bg 345.mp4
+├── bg 567.mp4
+├── wa.jpg, sh.jpg, etc. # Song images
+├── he.mp3, sh.mp3, etc. # Song audio
+└── README.md
 
 ## 🛠️ Technology Used
 
@@ -87,7 +90,9 @@ Open Logo.png
 
 Screen Recorder
 
-   
+   Uploading Just Music.mp4…
+
+
 
 ## 👤 Author
 
