@@ -16,19 +16,7 @@
 
 ## 📂 Folder Structure
 
-JustMusic/
-│
-├── Home.html
-├── Mixedplaylists.html
-├── Sing In.html
-├── Sing Up.html
-├── logo.png
-├── bg 231.mp4
-├── bg 345.mp4
-├── bg 567.mp4
-├── wa.jpg, sh.jpg, etc. # Song images
-├── he.mp3, sh.mp3, etc. # Song audio
-└── README.md
+   ![image](https://github.com/user-attachments/assets/934983b8-57e9-489e-addf-494f8465e0a8)
 
 ## 🛠️ Technology Used
 
