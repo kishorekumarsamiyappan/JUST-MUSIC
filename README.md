@@ -88,9 +88,7 @@ Open Logo.png
 
 Screen Recorder
 
-    https://github.com/user-attachments/assets/07e159fc-8d35-4f98-952d-6f14a2ccc4b0
-
-
+   https://github.com/user-attachments/assets/5d02cbc5-cd6e-490b-b068-a165c4419250
 
 ## 👤 Author
 
